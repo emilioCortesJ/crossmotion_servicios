@@ -1,0 +1,59 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "Personal_CrossmotionContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "Servicios_personal_crossmotion",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[cat_departamento]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[personal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[obtenerPersonal]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[agregarPersonal]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[editarPersonal]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[eliminarPersonal]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "LAPTOP-FBJPC76H\\MSSQLSERVER01.personal_crossmotion",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
